@@ -1,0 +1,11 @@
+{
+  "name": "discord-handler",
+  "version": "1.0.0",
+  "description": "A small command, modules and event handler for your discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Sammwy <sammwy.dev@gmail.com>",
+  "license": "ISC"
+}
